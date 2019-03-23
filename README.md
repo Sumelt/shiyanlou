@@ -2,4 +2,4 @@
 learning git
 nice
 
-牛逼
+999
